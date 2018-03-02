@@ -1,0 +1,11 @@
+.reviews-list {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.reviews-list__item {
+    display: block;
+    list-style: none;
+    margin-bottom: 10px;
+}
